@@ -38,7 +38,7 @@ function App() {
         <Route
           path="/"
           component={() => {
-            window.location.href = 'https://marketing-pi.vercel.app/'
+            window.location.href = 'https://secret-family-recipe-nu.vercel.app/'
           }}
         />
       </Switch>
